@@ -43,6 +43,10 @@ h5 {
     margin-left: 0;
   }
 
+  .mdl-demo {
+    height: 100vh;
+  }
+
 /* ==========  Top Navigation  ========== */
   //TOP NAV
 
@@ -375,6 +379,7 @@ h5 {
       width: calc(100% - 16px);
     }
   }
+
 
 @import "sample-theme.scss";
 @import '../../styles/theme.scss';
